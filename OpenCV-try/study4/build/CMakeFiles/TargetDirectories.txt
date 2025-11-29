@@ -1,0 +1,3 @@
+/home/ad/OpenCV-try/study4/build/CMakeFiles/stu4.dir
+/home/ad/OpenCV-try/study4/build/CMakeFiles/edit_cache.dir
+/home/ad/OpenCV-try/study4/build/CMakeFiles/rebuild_cache.dir

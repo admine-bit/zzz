@@ -1,0 +1,3 @@
+/home/ad/OpenCV-try/Trakbar/build/CMakeFiles/tarkbar.dir
+/home/ad/OpenCV-try/Trakbar/build/CMakeFiles/edit_cache.dir
+/home/ad/OpenCV-try/Trakbar/build/CMakeFiles/rebuild_cache.dir

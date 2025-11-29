@@ -1,0 +1,3 @@
+/home/ad/OpenCV-try/karermalnous/build/CMakeFiles/kar.dir
+/home/ad/OpenCV-try/karermalnous/build/CMakeFiles/edit_cache.dir
+/home/ad/OpenCV-try/karermalnous/build/CMakeFiles/rebuild_cache.dir

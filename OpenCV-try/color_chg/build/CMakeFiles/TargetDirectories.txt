@@ -1,0 +1,3 @@
+/home/ad/OpenCV-try/color_chg/build/CMakeFiles/chg.dir
+/home/ad/OpenCV-try/color_chg/build/CMakeFiles/edit_cache.dir
+/home/ad/OpenCV-try/color_chg/build/CMakeFiles/rebuild_cache.dir
